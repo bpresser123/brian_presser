@@ -350,7 +350,7 @@ class Tic_Tac_Toe
 
 end
 
-## End ##
+## End Game ##
 
 game = Tic_Tac_Toe.new
 game.choose_game
